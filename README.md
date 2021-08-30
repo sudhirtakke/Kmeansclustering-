@@ -1,7 +1,7 @@
 # Kmeansclustering-
 Kmeansclustering implementation on customer segmentation
 
-Context
+## Context
 
 In today's competitive world, it is crucial to understand customer bahaviour and categorise customers based on their demography and buying behaviour. This is broadly one aspect of customer segmentation that allows marketers to better tailor their marketing efforts to various audience subsets in terms of promotional, marketing and product development strategies.
 
